@@ -17,5 +17,5 @@
 
 ### 软件
 
-* OpenCore 0.6.9
-* macOS Big Sur 11.4
+* OpenCore 0.8.5
+* macOS Ventura 13.0
