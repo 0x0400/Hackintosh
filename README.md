@@ -17,5 +17,12 @@
 
 ### 软件
 
-* OpenCore 0.8.5
-* macOS Ventura 13.0
+* OpenCore 0.9.6
+* macOS Sonoma 14.1.1
+
+### 说明
+macOS Sonoma 移除了一些旧设备支持，导致 Wi-Fi 没法正常工作
+参考以下链接来解决:
+https://elitemacx86.com/threads/how-to-fix-broadcom-wifi-on-macos-sonoma-and-later.1415/
+https://www.youtube.com/watch?v=gHs2CFox6gc
+https://github.com/dortania/OpenCore-Legacy-Patcher
